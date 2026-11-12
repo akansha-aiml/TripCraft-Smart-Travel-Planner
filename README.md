@@ -1,7 +1,5 @@
 # ✈️ TripCraft — Smart Travel Planner
 
-> Your journey, beautifully planned.
-
 TripCraft is a simple, clean travel planning web app built with **Streamlit** and **SQLite**. It brings everything you need for a trip into one place: your destinations, a day-by-day itinerary, a budget tracker, and a packing checklist.
 
 ---
@@ -92,8 +90,6 @@ The app opens in your browser, usually at `http://localhost:8501`. The database 
 4. Record spending in **Budget Planner** to keep an eye on your remaining budget.
 5. Build your checklist in **Packing Assistant** and tick items off as you pack.
 
-> Destinations, itinerary, budget and packing all depend on a trip, so create one in **My Trips** first.
-
 ---
 
 ## 🗄️ Database Schema
@@ -122,11 +118,8 @@ All tables are linked to `trips` through `trip_id`.
 
 ## 👩‍💻 Author
 
-**<Your Name>**
-MCA (AI & ML), Chandigarh University
+Akansha Saroha
+MCA (AI & ML)
+Chandigarh University
 
 ---
-
-## 📄 License
-
-This project is for learning and personal use. Add a license of your choice here (for example, MIT).
